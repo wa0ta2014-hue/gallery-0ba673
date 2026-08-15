@@ -1,7 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://wa0ta2014-hue.github.io/gallery-0ba673",
-  "generatedAt": "2026-08-15T06:21:45.181252400+00:00",
+  "generatedAt": "2026-08-15T10:21:12.145179500+00:00",
   "libraryImages": [
     {
       "id": "fa282931",
@@ -1686,30 +1686,28 @@
       ]
     },
     {
-      "galleryId": "gallery_2",
-      "displayName": "231H",
+      "galleryId": "231h",
       "mode": "SlideShow",
       "images": [
         {
-          "id": "2eea4602",
-          "thumbnail": "thumb/2eea4602.jpg",
-          "fullsize": "full/2eea4602.jpg",
+          "id": "cc0f175e",
+          "thumbnail": "thumb/cc0f175e.jpg",
+          "fullsize": "full/cc0f175e.jpg",
           "version": 1,
-          "caption": "2026/08/15"
+          "caption": "2026/08/12"
         }
       ]
     },
     {
-      "galleryId": "gallery_3",
-      "displayName": "231W",
+      "galleryId": "231w",
       "mode": "SlideShow",
       "images": [
         {
-          "id": "1d74a3e6",
-          "thumbnail": "thumb/1d74a3e6.jpg",
-          "fullsize": "full/1d74a3e6.jpg",
+          "id": "e14f1376",
+          "thumbnail": "thumb/e14f1376.jpg",
+          "fullsize": "full/e14f1376.jpg",
           "version": 1,
-          "caption": "2026/08/12"
+          "caption": "2026/08/15"
         }
       ]
     }
